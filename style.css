@@ -2,4 +2,9 @@ body {
   text-align: right;
   color: dark-green;
   background: purple;
+  font: arial;
+}
+
+h1 {
+  font: Brush Script MT;;
 }
