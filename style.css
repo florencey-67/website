@@ -1,10 +1,10 @@
 body {
   text-align: right;
-  color: dark-green;
+  color: darkgreen;      
   background-color: purple;
-  font: arial;
+  font-family: Arial, sans-serif; 
 }
 
 h1 {
-  font: Brush Script MT;;
+  font-family: "Brush Script MT", cursive; 
 }
